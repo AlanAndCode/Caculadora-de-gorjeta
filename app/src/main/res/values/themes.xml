@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CalculadoraDeGorjeta" parent="Theme.MaterialComponents.Light">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Laranja_claro</item>
+        <item name="colorPrimaryVariant">@color/Laranja_claro</item>
+        <item name="colorOnPrimary">@color/Laranja_claro</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Laranja_claro</item>
+        <item name="colorSecondaryVariant">#fFB452</item>
+        <item name="colorOnSecondary">@color/Laranja_claro</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
